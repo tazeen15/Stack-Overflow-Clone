@@ -31,10 +31,10 @@ npm start
 
 ## Pics of the application
 
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/TagsPage.png">
-<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/UsersPage.png">
+<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/Homepage.png">
+<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/Question.png">
+<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/TagsPage.png">
+<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/UsersPage.png">
 
 ## Live Link for the website:
 
