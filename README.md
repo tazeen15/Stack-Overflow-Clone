@@ -30,11 +30,10 @@ npm start
 ```
 
 ## Pics of the application
+![Homepage](https://user-images.githubusercontent.com/75677052/223513133-6dd5c3ad-11fc-4849-8f81-0d12dcb5082b.png)
+![TagsPage](https://user-images.githubusercontent.com/75677052/223513165-c41aa7fa-f026-4513-98a0-2a3a6993b6b6.png)
+![UsersPage](https://user-images.githubusercontent.com/75677052/223513181-13f4bf20-ce76-4306-a9a2-4a4123aeafad.png)
 
-<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/Homepage.png">
-<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/Question.png">
-<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/TagsPage.png">
-<img src="https://github.com/tazeen15/Stack-overflow/blob/main/Screenshots/UsersPage.png">
 
 ## Live Link for the website:
 
