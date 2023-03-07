@@ -33,10 +33,11 @@ npm start
 
 <img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Homepage.png">
 <img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/Question.png">
+<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/TagsPage.png">
+<img src="https://github.com/Manoj-Athi/Stack-overflow/blob/main/Screenshots/UsersPage.png">
 
 ## Live Link for the website:
 
-[Click here](https://stack-overflow-manoj.netlify.app/)
 
 ## Contributions
 
@@ -46,8 +47,3 @@ Contributions are always welcomed. Anyone can contribute to this project. Contri
 
 This website uses icons from font awesome.
 
-## Reminder for Null Class Students
-
-If you are a Null Class student the repo is updated from the old one. If you need the old repo you can checkout the branch I have created.
-
-Made with ❤️ by [@Manoj](https://twitter.com/Manoj_Athi)
